@@ -18,12 +18,12 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: rux
+title: hebbs
 email: redoxRux@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://redoxrux.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: redoxrux
+twitter_username: hebbs__
 github_username:  redoxrux
 
 # Build settings
