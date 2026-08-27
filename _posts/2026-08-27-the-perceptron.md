@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The Perceptron: Can a Machine Learn at All?"
+title: "The Perceptron (Rosenblatt, 1958)"
 date: 2026-08-27
 categories: technical ml
 ---
